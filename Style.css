@@ -48,6 +48,17 @@ nav ul li a {
   width: 30%;
   margin: 1em;
   padding 1%;
-  height: 750px;
+  height: 800px;
   border-radius:15%;
+}
+.box img {
+  float: none;
+  max-height: 600px;
+  max-width: 600px;
+  border-radius: 10px;
+}
+.box p{ 
+  text-align: center;
+  color: white;
+  font-size: 20px;
 }
