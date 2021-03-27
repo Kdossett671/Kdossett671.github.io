@@ -42,3 +42,12 @@ nav ul li a {
   padding: .5em 1em; 	
   margin: .5em; 
 } 
+.box {
+  float: left;
+  background: #808080;
+  width: 30%;
+  margin: 1em;
+  padding 1%;
+  height: 750px;
+  border-radius:15%;
+}
