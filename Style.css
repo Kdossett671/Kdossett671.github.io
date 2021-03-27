@@ -52,6 +52,7 @@ nav ul li a {
   border-radius:15%;
 }
 .box img {
+  justify-content: center;
   float: none;
   max-height: 600px;
   max-width: 600px;
