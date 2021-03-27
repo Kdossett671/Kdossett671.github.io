@@ -54,7 +54,7 @@ nav ul li a {
 .box img {
   justify-content: center;
   float: none;
-  max-height: 450;
+  max-height: 500;
   max-width: 500;
   border-radius: 10px;
   padding: 1%;
@@ -62,6 +62,5 @@ nav ul li a {
 .box p{ 
   text-align: center;
   color: white;
-  font-size: 20px;
   padding: 2em;
 }
