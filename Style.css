@@ -64,11 +64,15 @@ nav ul li a {
   color: white;
   padding: 2em;
 }
-#p1 {
+.container {
   margin: auto;
   background: #808080;
   width: 25%;
   height: 200px;
   border-radius:15%;
+  }
+.container p {
   font-family: verdana;
-}
+  text-align: center;
+  color: white;
+  padding: 2em;
