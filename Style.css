@@ -65,11 +65,9 @@ nav ul li a {
   padding: 2em;
 }
 #p1 {
-  float: left;
+  margin: auto;
   background: #808080;
   width: 25%;
-  margin: 1em;
-  padding: 2em;
   height: 200px;
   border-radius:15%;
   text-align: center;
